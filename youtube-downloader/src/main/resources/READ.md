@@ -1,0 +1,1 @@
+Arquivos de configuração do Spring, templates HTML, arquivos estáticos, etc.
